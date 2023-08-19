@@ -9,7 +9,4 @@
 
 ***
 
-* [index](index/README.md)
-  * [googlebd049ba563133530](index/googlebd049ba563133530.md)
-  * [googlebd049ba563133530](index/googlebd049ba563133530-1.md)
-* [googlebd049ba563133530](googlebd049ba563133530.md)
+* [index](index.md)

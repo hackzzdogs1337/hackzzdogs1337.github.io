@@ -5,11 +5,7 @@ description: >-
   post.
 coverY: 0
 ---
-<head><meta name="google-site-verification" content="YYbnMuO01GBuAkGoNBOESGOVLMlUgBHSEAu9MUuSDDo" /></head>
+
 # 🥳 Red Team Blogs
 
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56HBVQ7T"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+\# 🥳 Red Team Blogs
