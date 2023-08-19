@@ -6,3 +6,7 @@
 ## Wh04m1
 
 * [😉 About me](wh04m1/about-me.md)
+
+***
+
+* [index](index.md)
