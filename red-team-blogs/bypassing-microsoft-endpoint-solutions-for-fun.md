@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="YYbnMuO01GBuAkGoNBOESGOVLMlUgBHSEAu9MUuSDDo" />
 # 🥲 Bypassing Microsoft Endpoint Solutions for Fun
 
 I was assigned a simulated Purple Teaming engagement at the start of the year 2022. This was my first Red teaming engagement. Our red team were asked to bypass all the security controls and gain a foothold on the machine. Their assumption was that once the foothold is gained one can easily get into domain admin :smile:. The timeframe of the engagement was also limited and the things that we perform in red team was also limited :cry:. Anyways Lets get started.
