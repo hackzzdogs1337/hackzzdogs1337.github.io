@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="YYbnMuO01GBuAkGoNBOESGOVLMlUgBHSEAu9MUuSDDo" />
 ---
 description: >-
   In this page I will post my Red teaming TTPs for Educational purposes. In
